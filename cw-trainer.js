@@ -2,7 +2,7 @@ const SVG_INACTIF = 'svg_inactif';
 const HASHSEP = '_';
 const DIT_SYMBOL = '<svg viewBox="0 0 150 100" height="22px" xmlns="http://www.w3.org/2000/svg"><circle cx="75" cy="50" r="50" /></svg>';
 const DAH_SYMBOL = '<svg viewBox="0 0 260 100" height="22px" xmlns="http://www.w3.org/2000/svg"><rect x="25" width="210" height="100" rx="15" /></svg>';
-const FREETEXT_URL = 'https://raw.githubusercontent.com/spasutto/cw-trainer/main/freetext/CharlesDickens-OliverTwist.txt';
+const FREETEXT_URL = 'freetext/CharlesDickens-OliverTwist.txt';
 const MINIFIER_URLS = ['https://cdn.jsdelivr.net/npm/source-map@0.7.3/dist/source-map.js', 'https://cdn.jsdelivr.net/npm/terser/dist/bundle.min.js'];
 const COMPRESS_URL = 'https://unpkg.com/fflate@0.8.2';
 const BASE64_URL = 'https://cdn.jsdelivr.net/npm/js-base64@3.7.7/base64.min.js';

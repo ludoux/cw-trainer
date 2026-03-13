@@ -1,0 +1,10 @@
+{
+  "name": "cw-trainer",
+  "entry": "",
+  "installCommand": "",
+  "buildCommand": "bash ./deploy.sh",
+  "assets": {
+    "directory": "./public",
+    "notFoundStrategy": "singlePageApplication"
+  }
+}
